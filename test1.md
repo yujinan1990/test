@@ -32,3 +32,6 @@ I find that githubDesktop embody the content of the last change.
 change on "idea" branch
 
 change on row15 both on "idea" branch and 'master' branch and then we merge them and then we solve the conflict problem.
+
+
+I want to test 'pull request'. that means pull some others' comment request base on two different branches.
