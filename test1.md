@@ -25,3 +25,4 @@ new commit and then I regret this version, and revert to the earlier version.
 =======
 I find that githubDesktop embody the content of the last change.
 >>>>>>> parent of 6d6be9d... test undo
+change on "idea" branch
