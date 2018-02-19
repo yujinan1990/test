@@ -17,3 +17,7 @@ I keep change, this is the 3rd change without commit // add in 4th, delete a . s
 I find that githubDesktop embody the content of the last change.
 
 This time I want to test "undo" and "revert to this commit".
+
+new commit and then I regret this version, and revert to the earlier version.
+"undo" command button will make the last commit which have not been asychronnized to the Cloud_of_github turn to state of changes. But just the state, the content of file is still there.
+
