@@ -12,7 +12,7 @@
 ### so this is the first time i edit in githubDesktop
 
 I keep change something, because I find that there is no change in Changes Tab of githubDesktop.
-So I find that Changes Tab embodys the content change which is not be committed. So if I change twice at different time and neither is commited, what will I see.
+So I find that Changes Tab embodys the content change which is not be committed. So if I change twice at different time and neither is commited, what will I see. ---add change at "idea changes"
 I keep change, this is the 3rd change without commit // add in 4th, delete a . symble 
 <<<<<<< HEAD
 I find that githubDesktop embody the content of the last change.
@@ -26,3 +26,5 @@ new commit and then I regret this version, and revert to the earlier version.
 I find that githubDesktop embody the content of the last change.
 >>>>>>> parent of 6d6be9d... test undo
 change on "idea" branch
+
+change on row15 both on "idea" branch and 'master' branch and then we merge them and then we solve the conflict problem.
