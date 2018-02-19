@@ -10,3 +10,8 @@
 ### add this line at 4 commits, and i find that it must be a blank after the symble #.
 
 ### so this is the first time i edit in githubDesktop
+
+I keep change something, because I find that there is no change in Changes Tab of githubDesktop.
+So I find that Changes Tab embodys the content change which is not be committed. So if I change twice at different time and neither is commited, what will I see.
+I keep change, this is the 3rd change without commit // add in 4th, delete a . symble 
+I find that githubDesktop embody the content of the last change.

@@ -1,1 +1,7 @@
-this is the new file i create in this repository, so now i realized that github is a reversion control or check tool, but when i edit a file i should using other app
+﻿this is the new file i create in this repository, so now i realized that github is a reversion control or check tool, but when i edit a file i should using other app
+
+
+git是个版本控制工具，基本的功能是版本记录和回滚。版本是每次commit才形成，然后在history中可以看到4W， why who when what. 
+如果更改了但没有commit是不会有形成版本的。githubDesktop中的Changes选项卡会记录最后一次修改呈现出的样子。
+
+#这些需和git 命令联系起了。
