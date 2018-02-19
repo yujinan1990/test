@@ -28,3 +28,7 @@ I find that githubDesktop embody the content of the last change.
 change on "idea" branch
 
 change on row15 both on "idea" branch and 'master' branch and then we merge them and then we solve the conflict problem.
+
+
+
+I want to make some change so this will be different with the master branch, and then i can 'pull request'.
